@@ -1,0 +1,2 @@
+# gabzidots
+Personal configuration
